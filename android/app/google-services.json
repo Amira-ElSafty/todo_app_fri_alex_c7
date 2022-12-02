@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667030635370",
+    "project_id": "todo-app-fri-c7",
+    "storage_bucket": "todo-app-fri-c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667030635370:android:3fb5a9478885c3068f1b13",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todo_app_fri_c7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667030635370-kjurv7bn1282gjtv02l00vud71tmvp55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9bzLrvLTknn8ealVhf-1Ilka1Ac6b6Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667030635370-kjurv7bn1282gjtv02l00vud71tmvp55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
